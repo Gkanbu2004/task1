@@ -1,0 +1,46 @@
+.a{
+    padding: 50px;
+    color: rgb(247, 5, 5);
+    background-color: aqua;
+    border: 2px;
+    border-style: solid;
+    margin-left: 130px;
+    margin-right: 150px;
+}
+.b{
+    padding: 50px;
+    color: rgb(247, 5, 5);
+    background-color: aqua;
+    border: 2px;
+    border-style: solid;
+    margin-top: 25px;
+    margin-left:130px;
+      margin-right: 150px;
+}
+p{
+    padding-right: 130px;
+    padding-left: 130px;
+    text-align: justify;
+}
+nav{
+    background-color: #07aefc;
+    margin-left: 150px;
+    margin-right: 150px;
+}
+nav ul{
+    list-style: none;
+    justify-content: center;
+    display: flex;}
+nav ul li a{
+    color: brown;
+    padding: 20px,25px;
+text-decoration: none;
+
+}
+nav li{
+margin: 30px;
+}
+aside{
+    padding: 50px;
+    padding-left: 140px;
+}
